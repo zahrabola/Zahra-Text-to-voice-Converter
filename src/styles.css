@@ -26,6 +26,9 @@ textarea::placeholder{
     margin-top: 20px;
 }
 .imgbtn{
-    width: 10%;
+    width: 13%;
     height: fit-content;
+}
+.selectbtn{
+   padding-bottom: 24px;
 }
