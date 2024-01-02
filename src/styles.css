@@ -12,8 +12,20 @@ body{
     margin-top: 40px;
    
 }
+.hero h1 span{
+color: blue;
+font-weight: 700;
+}
 .textsection{
+    border-radius: 10px;   
+}
+textarea::placeholder{
+    color: aliceblue;
+}
+.btnarea{
     margin-top: 20px;
-    padding: 10px;
-
+}
+.imgbtn{
+    width: 10%;
+    height: fit-content;
 }
